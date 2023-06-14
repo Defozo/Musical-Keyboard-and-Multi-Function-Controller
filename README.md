@@ -1,3 +1,5 @@
+[![PlatformIO CI](https://github.com/Defozo/Musical-Keyboard-and-Multi-Function-Controller/actions/workflows/platformio.yml/badge.svg?branch=main)](https://github.com/Defozo/Musical-Keyboard-and-Multi-Function-Controller/actions/workflows/platformio.yml)
+
 # Revolutionary Musical Keyboard and Multi-Function Controller (RMKMC)
 
 ## Overview
